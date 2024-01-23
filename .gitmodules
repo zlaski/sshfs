@@ -4,3 +4,6 @@
 [submodule "windows-libc"]
 	path = windows-libc
 	url = https://github.com/zlaski/windows-libc
+[submodule "glib"]
+	path = glib
+	url = https://github.com/zlaski/glib
