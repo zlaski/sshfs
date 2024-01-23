@@ -1,3 +1,6 @@
 [submodule "winfsp"]
 	path = winfsp
 	url = https://github.com/zlaski/winfsp
+[submodule "windows-libc"]
+	path = windows-libc
+	url = https://github.com/zlaski/windows-libc
