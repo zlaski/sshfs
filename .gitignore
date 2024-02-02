@@ -36,3 +36,5 @@ sshfs.1
 .deps/
 /build
 /.vs
+/Debug
+/Release
