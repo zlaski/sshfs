@@ -19,15 +19,6 @@
     <Filter Include="Source Files\compat">
       <UniqueIdentifier>{48541564-1807-4384-a374-8d528d7f5d94}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\winscp">
-      <UniqueIdentifier>{f4af2fe9-d3fc-4aba-9838-88f3d85c414f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\winscp\inc">
-      <UniqueIdentifier>{e16d3fb7-b6c6-4ff3-b52d-a66a632ed620}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\winscp\inc\fuse3">
-      <UniqueIdentifier>{b761f2c8-4f85-41d9-93e1-279b679e6449}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cache.h">
@@ -38,18 +29,6 @@
     </ClInclude>
     <ClInclude Include="compat\fuse_opt.h">
       <Filter>Header Files\compat</Filter>
-    </ClInclude>
-    <ClInclude Include="winfsp\inc\fuse3\fuse.h">
-      <Filter>Header Files\winscp\inc\fuse3</Filter>
-    </ClInclude>
-    <ClInclude Include="winfsp\inc\fuse3\fuse_common.h">
-      <Filter>Header Files\winscp\inc\fuse3</Filter>
-    </ClInclude>
-    <ClInclude Include="winfsp\inc\fuse3\fuse_opt.h">
-      <Filter>Header Files\winscp\inc\fuse3</Filter>
-    </ClInclude>
-    <ClInclude Include="winfsp\inc\fuse3\winfsp_fuse.h">
-      <Filter>Header Files\winscp\inc\fuse3</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
